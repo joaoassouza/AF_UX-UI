@@ -6,4 +6,4 @@ Com isso, g/tem-se a seguinte planilha:
 
 ## Diagrama Complexidades
 
-![Diagrama](Diagrama complexidade.png)
+![Diagrama](Diagrama_complexidade.png)
