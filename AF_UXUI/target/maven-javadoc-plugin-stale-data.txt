@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/joaod/OneDrive/Documentos/NetBeansProjects/AF_UXUI/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/joaod/OneDrive/Documentos/NetBeansProjects/AF_UXUI/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'AF_UXUI 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'AF_UXUI 1.0-SNAPSHOT API'
+login
+C:\Users\joaod\OneDrive\Documentos\NetBeansProjects\AF_UXUI\src\main\java = 1733025854108
+C:\Users\joaod\OneDrive\Documentos\NetBeansProjects\AF_UXUI\target\reports\apidocs\allclasses-index.html = 1733026516856
+C:\Users\joaod\OneDrive\Documentos\NetBeansProjects\AF_UXUI\target\reports\apidocs\allpackages-index.html = 1733026516877
+C:\Users\joaod\OneDrive\Documentos\NetBeansProjects\AF_UXUI\target\reports\apidocs\copy.svg = 1733026516989
+C:\Users\joaod\OneDrive\Documentos\NetBeansProjects\AF_UXUI\target\reports\apidocs\element-list = 1733026516709
+C:\Users\joaod\OneDrive\Documentos\NetBeansProjects\AF_UXUI\target\reports\apidocs\help-doc.html = 1733026516962
+C:\Users\joaod\OneDrive\Documentos\NetBeansProjects\AF_UXUI\target\reports\apidocs\index-all.html = 1733026516919
+C:\Users\joaod\OneDrive\Documentos\NetBeansProjects\AF_UXUI\target\reports\apidocs\index.html = 1733026516948
+C:\Users\joaod\OneDrive\Documentos\NetBeansProjects\AF_UXUI\target\reports\apidocs\link.svg = 1733026517003
+C:\Users\joaod\OneDrive\Documentos\NetBeansProjects\AF_UXUI\target\reports\apidocs\member-search-index.js = 1733026516894
+C:\Users\joaod\OneDrive\Documentos\NetBeansProjects\AF_UXUI\target\reports\apidocs\module-search-index.js = 1733026516883
+C:\Users\joaod\OneDrive\Documentos\NetBeansProjects\AF_UXUI\target\reports\apidocs\overview-tree.html = 1733026516822
+C:\Users\joaod\OneDrive\Documentos\NetBeansProjects\AF_UXUI\target\reports\apidocs\package-search-index.js = 1733026516887
+C:\Users\joaod\OneDrive\Documentos\NetBeansProjects\AF_UXUI\target\reports\apidocs\script.js = 1733026516975
+C:\Users\joaod\OneDrive\Documentos\NetBeansProjects\AF_UXUI\target\reports\apidocs\search-page.js = 1733026517018
+C:\Users\joaod\OneDrive\Documentos\NetBeansProjects\AF_UXUI\target\reports\apidocs\search.html = 1733026516940
+C:\Users\joaod\OneDrive\Documentos\NetBeansProjects\AF_UXUI\target\reports\apidocs\search.js = 1733026517013
+C:\Users\joaod\OneDrive\Documentos\NetBeansProjects\AF_UXUI\target\reports\apidocs\stylesheet.css = 1733026516971
+C:\Users\joaod\OneDrive\Documentos\NetBeansProjects\AF_UXUI\target\reports\apidocs\tag-search-index.js = 1733026516897
+C:\Users\joaod\OneDrive\Documentos\NetBeansProjects\AF_UXUI\target\reports\apidocs\type-search-index.js = 1733026516891
