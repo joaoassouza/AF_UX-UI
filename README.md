@@ -4,3 +4,6 @@ O código em geral apreenta a classe User com dois métodos, verificarUsuario e 
 Com isso, g/tem-se a seguinte planilha:
 ![PLanilha](Planilha_Melhorias.png)
 
+## Diagrama Complexidades
+
+![Diagrama](Diagrama complexidade.png)
